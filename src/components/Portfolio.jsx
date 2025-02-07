@@ -19,8 +19,8 @@ const projects = [
       title: "Project #2",
       description: "This is portfolio project.in this project i had used React,Framer-Motion and Tailwind",
       links: {
-        site: "#",
-        github: "#",
+        site: "https://portfolio-ansn.netlify.app/",
+        github: "https://github.com/Arsn1323/portfolio",
       },
     },
    
