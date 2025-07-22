@@ -1,5 +1,6 @@
 import React from 'react';
 import crypto from "../assets/crypto.jpg";
+import chat from "../assets/chat.png"
 import portfolio from "../assets/portfolio.jpg"
 import { AiFillGithub, AiOutlineGithub } from 'react-icons/ai'
 import Reveal from './Reveal';
@@ -23,6 +24,16 @@ const projects = [
         github: "https://github.com/Arsn1323/portfolio",
       },
     },
+     {
+      img: chat,
+      title: "Project #3",
+      description: "Built a responsive real-time chat application using the MERN stack (MongoDB, Express.js, React, Node.js) integrated with Socket.IO for live, bi-directional communication.",
+      links: {
+        site: "https://chat-application-7cae.onrender.com",
+        github: "https://github.com/Arsn1323/Chat-App",
+      },
+    },
+   
    
   ]
 
