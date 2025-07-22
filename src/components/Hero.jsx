@@ -75,11 +75,7 @@ const Hero = () => {
                         className="z-10 cursor-pointer font-bold text-gray-200 md:w-auto p-4 border
                                      border-purple-400 rounded-xl"     
                     >
-<<<<<<< HEAD
-                       <a href="#" >Download CV</a> 
-=======
-                       <a href="https://drive.google.com/file/d/184-_kqMsTCGPmVMzUW1OsXF1u36P7NKV/view?usp=drivesdk" >Download CV</a> 
->>>>>>> d1685d4 (hero update)
+                       <a href="https://www.canva.com/design/DAGY-rajA0E/PirdWZSBQkrJkhwHP3GwRQ/edit?utm_content=DAGY-rajA0E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" >Download CV</a> 
                     </motion.button>
 
                     <div className="flex gap-6 flex-row text-4xl md:text-6xl text-purple-400 z-20">
